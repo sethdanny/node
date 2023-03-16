@@ -3,3 +3,4 @@
 * Reading files
 * Writting Files
 * Create and delete a Directory/ Folder
+* Delete a file 
