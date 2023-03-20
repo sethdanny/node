@@ -2,7 +2,9 @@
 const http = require('http');
 
 const server = http.createServer((req, res) => {
-    console.log("Created server successfully!");
+    res.setHeader('Content-Type', 'text/plain');
+    res.write('Hello Welcome to NodeJs programming');
+    res.end();
 })
 
 server.listen(3000, 'localhost', () => {
