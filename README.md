@@ -11,3 +11,6 @@
 ## Clients and Servers
 * Create a server and listen to requests.
 * create another server to listen on port 5000 and return an html document.
+
+## Basic Routing
+* Create a server and html pages to enable routing
