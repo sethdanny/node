@@ -14,3 +14,4 @@
 
 ## Basic Routing
 * Create a server and html pages to enable routing
+* Redirects routs from one path to another
