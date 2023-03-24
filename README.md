@@ -15,3 +15,7 @@
 ## Basic Routing
 * Create a server and html pages to enable routing
 * Redirects routes from one path to another
+
+## Introduction to Package Dependencies
+* Lodash (-)
+* Express (NodeJs Framework)
