@@ -19,3 +19,6 @@
 ## Introduction to Package Dependencies
 * Lodash (-)
 * Express (NodeJs Framework)
+
+## Author
+Nadduli Daniel <naddulidaniel1994@gmail.com>
